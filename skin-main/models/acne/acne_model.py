@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-
+import torchvision 
 
 class MyNet(nn.Module):
     def __init__(self):
@@ -10,7 +10,6 @@ class MyNet(nn.Module):
         for param in self.cnn.parameters():
             param.requires_grad = True
         self.cnn.classifier = nn.Sequential(
-
             nn.Linear(self.cnn.classifier[1].in_features, 512),
             nn.Dropout(p=0.2),
             nn.ReLU(),
