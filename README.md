@@ -4,15 +4,6 @@
 
 ---
 
-## Table of Contents
-1. [Features](#-features)
-2. [Prerequisites](#-prerequisites)
-3. [Installation](#-installation)
-4. [Usage](#-usage)
-5. [Future Enhancements](#-future-enhancements)
-
----
-
 ## Features
 - Image Analysis: Predicts acne severity and skin type from user-uploaded images.
 - Personalized Recommendations: Suggests skincare products based on analysis results and user concerns.
