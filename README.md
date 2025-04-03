@@ -14,10 +14,10 @@
 ---
 
 ## Features
-- ** Image Analysis**: Predicts acne severity and skin type from user-uploaded images.
-- ** Personalized Recommendations**: Suggests skincare products based on analysis results and user concerns.
-- ** User Interaction**: Allows users to specify additional skin concerns for more tailored recommendations.
-- ** Local Setup**: Can be easily installed and run on a local system for convenient usage.
+- Image Analysis: Predicts acne severity and skin type from user-uploaded images.
+- Personalized Recommendations: Suggests skincare products based on analysis results and user concerns.
+- User Interaction: Allows users to specify additional skin concerns for more tailored recommendations.
+- Local Setup: Can be easily installed and run on a local system for convenient usage.
 
 ---
 
@@ -30,7 +30,7 @@
 ## Installation
 1. Clone the **Skincare Sage** repository:
    ```bash
-   git clone [https://github.com/KaviyaaPriyadharshini/SKINCARE/](https://github.com/KaviyaaPriyadharshini/SKINCARE/)
+   git clone https://github.com/KaviyaaPriyadharshini/SKINCARE
    ```
 2. Navigate to the project directory:
    ```bash
